@@ -1,0 +1,5 @@
+{
+  "name": "PDF Merger-Organizer-Splitter",
+  "description": "A client-side web application to easily merge multiple PDF files into a single document. Users can upload, reorder, and merge PDFs securely in their browser.",
+  "requestFramePermissions": []
+}
